@@ -5,7 +5,7 @@ body {
 
 /* comment */
 #container {
-  width: 800px;
+  width: 1200px;
   margin: 0 auto; /*spacing outside border*/
   background-color: #99ccff;
   color: black; /*font color*/
