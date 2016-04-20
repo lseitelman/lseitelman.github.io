@@ -1,6 +1,6 @@
 body {
   font-family: Helvetica, Arial, sans-serif;
-  background-color: #ffff66; /*turquoise*/
+  background-color: #ccff99; /*turquoise*/
 }
 
 /* comment */
@@ -33,6 +33,10 @@ body {
   width: 800px;
   padding: 15px;
 }
+#anotherPanel{
+  width: 100%
+  ;
+}
 
 h1{
   margin-top: 0px;
@@ -43,7 +47,7 @@ h2{
 }
 
 a {
-  color: red;
+  color: blue;
 }
 
 a:hover {
