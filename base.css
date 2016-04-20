@@ -17,6 +17,9 @@ body {
 .pictureContainer {
   background: url("../");
 }
+.photoContainer {
+  
+}
 
 #leftPanel ul {
   list-style: none; /*removes bullets*/
